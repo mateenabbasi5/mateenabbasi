@@ -31,7 +31,7 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateen%20Abbasi-blue?logo=linkedin)](https://www.linkedin.com/in/mateen-abbasi/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen?logo=researchgate)](#)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Mateen%20Abbasi-brightgreen?logo=researchgate)](https://www.researchgate.net/profile/Mateen-Abbasi?ev=hdr_xprf)
 📧 mateen.a.abbasi@jyu.fi
 
 ---
