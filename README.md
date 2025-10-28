@@ -11,7 +11,6 @@
 - Human–AI Collaboration in Software Engineering  
 - Requirements Engineering & Process Automation  
 - AI-driven Decision Support Systems  
-- Software Architecture Documentation  
 
 ---
 
